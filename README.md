@@ -10,6 +10,16 @@ From narrow, human-directed tools to autonomous systems capable of independent p
 
 AI agents mark the next evolution: autonomous systems that independently plan and execute complex workflows. Combining reasoning with action, they operate without constant human direction, transforming AI from a passive tool into a self-sufficient problem-solving engine.
 
+Coming sonn...
 ## AI Agent Design Patterns
 - AI Agent
 - AI Multi Agent
+- AI Agent Tools
+- AI Agent with MCP (Model Context Protocol)
+- Context Engineering
+- Session & Memory
+- AI Agent Reliability
+- AI Agents Prototype to Production
+- Concierge Agents
+- Agents for Good
+- Enterprise Agents
